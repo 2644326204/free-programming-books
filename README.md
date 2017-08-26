@@ -3,7 +3,7 @@
 [查看英文列表](/free-programming-books.md)
 
 ## 介绍
-资源原始克隆自 [stackoverflow - 免费可用的学习资源列表](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) 作者: George Stocker. 
+原资源克隆自 [stackoverflow - 免费可用的学习资源列表](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) 作者: George Stocker. 
 
 清单由Victor Felder整理到GitHub ,并更新和维护. 它逐渐成为Github [最受欢迎的仓库](https://octoverse.github.com/), 并且有超过 80,000+标星, 4000+次提交, 800+贡献者参与它的修改, 以及20,000+复制.
 
