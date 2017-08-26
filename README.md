@@ -9,25 +9,25 @@
 
 现在由[Free Ebook Foundation](https://ebookfoundation.org)回购管理, 它是一个非营利性的组织并致力于致力于促进创造、分配归档和可持续性的免费电子书. 在美国为[Free Ebook Foundation](https://ebookfoundation.org/contributions.html) 捐赠是免税的.
 
-### How To Contribute
+### 如何贡献自己的一份力量
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md).
+请阅读[贡献](/CONTRIBUTING.md)文档.
 
-### How to Share
-+ [Share on Twitter](http://twitter.com/home?status=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
-+ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/EbookFoundation/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
-+ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/EbookFoundation/free-programming-books)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
+### 如何分享给他人
++ [推特](http://twitter.com/home?status=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
++ [脸书](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/EbookFoundation/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
++ [Google Plus](https://plus.google.com/share?url=https://github.com/EbookFoundation/free-programming-books)
++ [领英](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 
 
-### In Other Spoken Languages
-+ Arabic: [github](/free-programming-books-ar.md)
-+ Azerbaijani: [github](/free-programming-books-az.md)
-+ Bulgarian: [github](/free-programming-books-bg.md)
-+ Burmese: [github](/free-programming-books-mm.md)
-+ Chinese: [github](/free-programming-books-zh.md)
-+ Czech: [github](/free-programming-books-cs.md)
-+ English: [github](/free-programming-books.md)
+### 查看其他语言的版本
++ 简体中文: [github](/free-programming-books-zh.md)
++ 阿拉伯: [github](/free-programming-books-ar.md)
++ 阿塞拜疆: [github](/free-programming-books-az.md)
++ 保加利亚: [github](/free-programming-books-bg.md)
++ 缅甸: [github](/free-programming-books-mm.md)
++ 捷克: [github](/free-programming-books-cs.md)
++ 英语: [github](/free-programming-books.md)
 + French: [github](/free-programming-books-fr.md)
 + German: [github](/free-programming-books-de.md)
 + Greek: [github](/free-programming-books-gr.md)
@@ -49,21 +49,21 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + Ukrainian: [github](/free-programming-books-ua.md)
 
 
-### Free Online Courses
-+ [Free Online Courses](/free-courses-en.md)
+### 免费在线课程
++ [免费在线课程](/free-courses-en.md)
 
 
-### Interactive Programming Resources
-+ [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
+### 互动编程资源
++ [互动编程资源](/free-programming-interactive-tutorials-en.md)
 
 
-### JavaScript Frameworks and Resources
-+ [Free JavaScript frameworks resources and tutorials - English](/javascript-frameworks-resources.md)
-+ [Free JavaScript frameworks resources and tutorials - Portuguese (Brazil)](/javascript-frameworks-resources-pt_BR.md)
+### JavaScript 框架和源码
++ [JavaScript框架和源码以及教程 - 英文版](/javascript-frameworks-resources.md)
++ [JavaScript框架和源码以及教程 - 葡萄牙(巴西)](/javascript-frameworks-resources-pt_BR.md)
 
 
-### Problem Sets and Competitive Programming
-+ [Problem Sets](/problem-sets-competitive-programming.md)
+### 问题集合和编程比赛
++ [问题集合](/problem-sets-competitive-programming.md)
 
 
 ### Podcast - Screencast
