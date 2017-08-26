@@ -1,13 +1,13 @@
-# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 免费学习资源目录清单 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[View the English list](/free-programming-books.md)
+[查看英文列表](/free-programming-books.md)
 
-## Intro
-This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. 
+## 介绍
+资源原始克隆自 [stackoverflow - 免费可用的学习资源列表](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) 作者: George Stocker. 
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It grew to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 80,000 stars, over 4000 commits, over 800 contributors, and over 20,000 forks.
+清单由Victor Felder整理到GitHub ,并更新和维护. 它逐渐成为Github [最受欢迎的仓库](https://octoverse.github.com/), 并且有超过 80,000+标星, 4000+次提交, 800+贡献者参与它的修改, 以及20,000+复制.
 
-The repo is now administered by the [Free Ebook Foundation](https://ebookfoundation.org), a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
+现在由[Free Ebook Foundation](https://ebookfoundation.org)回购管理, 它是一个非营利性的组织并致力于致力于促进创造、分配归档和可持续性的免费电子书. 在美国为[Free Ebook Foundation](https://ebookfoundation.org/contributions.html) 捐赠是免税的.
 
 ### How To Contribute
 
