@@ -13,13 +13,6 @@
 
 请阅读[贡献](/CONTRIBUTING.md)文档.
 
-### 如何分享给他人
-+ [推特](http://twitter.com/home?status=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
-+ [脸书](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/EbookFoundation/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
-+ [Google Plus](https://plus.google.com/share?url=https://github.com/EbookFoundation/free-programming-books)
-+ [领英](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
-
-
 ### 查看其他语言的版本
 + 简体中文: [github](/free-programming-books-zh.md)
 + 阿拉伯: [github](/free-programming-books-ar.md)
